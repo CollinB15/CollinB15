@@ -9,8 +9,8 @@
 
 <h2>:mortar_board: Certifications </h2>
 
-- [Data Science and Business Analytics] (https://verify.mygreatlearning.com/verify/FSTDROVZ)
-- [Google Data Analytics (In Progress)]
+- [Data Science and Business Analytics](https://verify.mygreatlearning.com/verify/FSTDROVZ)
+- Google Data Analytics (In Progress)
 
 
 
