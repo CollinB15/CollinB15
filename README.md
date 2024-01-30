@@ -1,4 +1,4 @@
-<h1>Hi, I'm Collin! <br/><a href="https://github.com/joshmadakor1"> Aspiring Data Analyst</a> <a href="https://www.linkedin.com/in/collin-beville/">
+<h1>Hi, I'm Collin! <br/><a href="https://github.com/CollinB15"> Aspiring Data Analyst</a> <a href="https://www.linkedin.com/in/collin-beville/">
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Python</b>
