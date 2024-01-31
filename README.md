@@ -4,6 +4,7 @@
 - <b>Python</b>
   - [Real World Business Problems (Solved With Python)](https://eportfolio.mygreatlearning.com/collin-beville)
   - [Trade & Ahead Analysis](https://github.com/CollinB15/Trade-Ahead-Analysis)
+  - [Trade & Ahead Analysis](https://github.com/CollinB15/Trade-Ahead-Analysis)
 - <b> Power Bi
   - [Trade & Ahead Stock Analysis](https://github.com/CollinB15/Trade-Ahead-Power-Bi/blob/main/README.md)
 - <b> SQL and R (Coming Soon)</b>
